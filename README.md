@@ -1,6 +1,6 @@
 # Neural Matrix Inverse
 
-This is a fun weekend project where I try to find the inverse of a matrix through gradient descent.
+This is a fun weekend project where I try to find the inverse of a matrix through gradient descent. The purpose of the project is to get a better understanding of the power and limitation of gradient descent algorithm in optimizations.
 
 ## Idea
 The process of inverting a matrix can be thought of as the following: 
